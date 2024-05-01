@@ -16,6 +16,7 @@ public class Game {
         players.add(player);
     }
 
+
     public void removePlayer(Player player){
         players.remove(player);
     }
